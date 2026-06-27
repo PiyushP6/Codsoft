@@ -6,7 +6,7 @@ This repository contains all the tasks completed during the CodSoft Data Science
 
 - 📁 codsoft_task1 – Titanic Survival Prediction
 - 📁 codsoft_task2 – Movie Rating Prediction
-- 📁 codsoft_task3 – Credit Card Fraud Detection
+- 📁 codsoft_task4 – SALES PREDICTION USING PYTHON
 
 ## Technologies Used
 
