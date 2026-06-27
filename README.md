@@ -17,7 +17,3 @@ This repository contains all the tasks completed during the CodSoft Data Science
 - Matplotlib
 - Seaborn
 - Jupyter Notebook
-
-## Author
-
-Your Name
